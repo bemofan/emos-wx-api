@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * @author mofan
- * @date 2021/2/18 5:10
+ * @date 2021/2/18 5:20
  */
 @SpringBootApplication
 public class EmosWxApiApplication {
